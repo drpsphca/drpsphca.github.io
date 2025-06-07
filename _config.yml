@@ -1,1 +1,6 @@
 include: [".well-known"]
+plugins:
+  - jekyll-feed
+title: DRPS PHCA RSS Feed
+description: "DRPS PHCA's official RSS Feed on DRPS PHCA Website powered by Github"
+author: DRPS Philippine Commercial Archives
